@@ -57,13 +57,13 @@
 - MERN Stack LMS with authentication
 - Razorpay payment integration
 - Wishlist, History & My Learning features  
-👉 **Repository:** https://github.com/YOUR_USERNAME/learnify
+👉 **Repository:** https://github.com/srushtigajera113/learnify
 
 ### 🔹 E-Commerce Product Page
 - Product listing & cart functionality
 - Category filtering
 - React + Tailwind CSS  
-👉 **Repository:** https://github.com/YOUR_USERNAME/ecommerce
+👉 **Repository:** https://github.com/srushtigajera113/ecommerce
 
 ---
 
