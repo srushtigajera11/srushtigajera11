@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![Banner](https://raw.githubusercontent.com/srushti-gajera/srushti-gajera/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/srushtigajera113/main/Banner.png)
 <h1 align="center">Hey 👋, I'm YOUR_NAME</h1>
 <h3 align="center">BCA Student | MERN Stack Developer | Lifelong Learner 🚀</h3>
 
