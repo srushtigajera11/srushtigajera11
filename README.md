@@ -22,13 +22,15 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/srushti-gajera/" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-1594370.png" width="40" />
+<a href="https://linkedin.com/in/srushti-gajera" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
+
 <a href="mailto:srushtigajera113@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
 </a>
 </p>
+
 
 ---
 
@@ -65,14 +67,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srushtigajera11&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtigajera113&theme=tokyonight" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=srushtigajera11&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtigajera113&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtigajera11&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtigajera11&layout=compact&theme=tokyonight" />
+
 
 ---
 
