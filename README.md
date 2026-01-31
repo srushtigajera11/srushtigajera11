@@ -1,16 +1,95 @@
-## Hi there 👋
+<!-- ===================== BANNER ===================== -->
+![Banner](https://your-banner-image-link)
 
-<!--
-**srushtigajera11/srushtigajera11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, I'm YOUR_NAME</h1>
+<h3 align="center">BCA Student | MERN Stack Developer | Lifelong Learner 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 BCA (Hons.) Student  
+- 💻 Interested in **Web Development & MERN Stack**
+- 🌱 Currently learning **Advanced React, Node.js & MongoDB**
+- 🧠 Love building real-world projects
+- ⚡ Fun fact: I enjoy converting ideas into working products
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-1594370.png" width="40" />
+</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Learnify – Learning Management System
+- MERN Stack LMS with authentication
+- Razorpay payment integration
+- Wishlist, History & My Learning features  
+👉 **Repository:** https://github.com/YOUR_USERNAME/learnify
+
+### 🔹 E-Commerce Product Page
+- Product listing & cart functionality
+- Category filtering
+- React + Tailwind CSS  
+👉 **Repository:** https://github.com/YOUR_USERNAME/ecommerce
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+---
+
+## ✨ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### ⭐ If you like my work, consider starring my repositories!
