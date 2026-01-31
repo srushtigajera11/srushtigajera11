@@ -5,7 +5,7 @@
 <h3 align="center">BCA Student | MERN Stack Developer | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=srushtigajera113&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -70,12 +70,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srushtigajera11&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtigajera113&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtigajera113&layout=compact&theme=tokyonight" />
 </p>
 
 ---
