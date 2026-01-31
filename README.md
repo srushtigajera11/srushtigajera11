@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![Banner](https://raw.githubusercontent.com/srushti-gajera/srushti-gajera/main/banner.png)
+![Banner](https://raw.githubusercontent.com/srushti-gajera/srushti-gajera/main/Banner.png)
 <h1 align="center">Hey 👋, I'm YOUR_NAME</h1>
 <h3 align="center">BCA Student | MERN Stack Developer | Lifelong Learner 🚀</h3>
 
@@ -22,13 +22,10 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/srushti-gajera/" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-1594370.png" width="40" />
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:srushtigajera113@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
 </a>
 </p>
@@ -56,13 +53,13 @@
 - MERN Stack LMS with authentication
 - Razorpay payment integration
 - Wishlist, History & My Learning features  
-👉 **Repository:** https://github.com/srushtigajera113/learnify
+👉 **Repository:** https://github.com/srushtigajera11/Learnify-lms
 
-### 🔹 E-Commerce Product Page
-- Product listing & cart functionality
-- Category filtering
+### 🔹 Portfolio 
+- about my self
+- diplaying my projects
 - React + Tailwind CSS  
-👉 **Repository:** https://github.com/srushtigajera113/ecommerce
+👉 **Repository:** https://github.com/srushtigajera11/Portfolio
 
 ---
 
