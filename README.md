@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 ![Banner](https://raw.githubusercontent.com/srushtigajera11/srushtigajera11/main/Banner.png)
-<h1 align="center">Hey 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hey 👋, I'm Srushti Gajera</h1>
 <h3 align="center">BCA Student | MERN Stack Developer | Lifelong Learner 🚀</h3>
 
 <p align="center">
