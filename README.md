@@ -65,26 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srushtigajera11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-
-</p>
-
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=srushtigajera11&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtigajera11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</p>
-
-
----
-
 ## 🐍 Contribution Graph
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
