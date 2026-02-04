@@ -61,7 +61,7 @@
 - about my self
 - diplaying my projects
 - React + Tailwind CSS  
-👉 **Repository:** https://github.com/srushtigajera11/Portfolio
+👉 **Repository:** https://portfolio-hlxf.vercel.app/
 
 ---
 
