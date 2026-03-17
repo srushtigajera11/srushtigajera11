@@ -39,7 +39,7 @@
 ### 🔹 Portfolio Website
 
 👉 **Live:** https://portfolio-hlxf.vercel.app/
-👉 **GitHub Repo:** (ADD REPO LINK HERE)
+👉 **GitHub Repo:** https://github.com/srushtigajera11/Portfolio
 
 * Responsive personal portfolio
 * Showcases projects & skills
