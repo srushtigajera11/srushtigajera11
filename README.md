@@ -21,7 +21,7 @@
 
 ### 🔹 Learnify – Learning Management System
 
-👉 **Live Demo:** (ADD LINK HERE)
+👉 **Live Demo:** https://learnify-lms-five-kappa.vercel.app/
 👉 **GitHub Repo:** https://github.com/srushtigajera11/Learnify-lms
 
 **Key Features:**
