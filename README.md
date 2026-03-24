@@ -30,7 +30,7 @@
 * 💳 Razorpay Payment Integration
 * ❤️ Wishlist & Course Enrollment System
 * 📜 Order History & User Dashboard
-* ⚡ Fully responsive UI
+* ⚡ Fully responsive UI,Gamification points
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Razorpay
 
