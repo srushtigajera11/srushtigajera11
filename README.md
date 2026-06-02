@@ -9,7 +9,6 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 BCA (Hons.) Student
 * 💻 MERN Stack Developer with hands-on project experience
 * 🌱 Currently mastering **Advanced React & Backend Systems**
 * 🔥 Focused on building **scalable, real-world applications**
