@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Srushti Gajera</h1>
 <h3 align="center">🚀 MERN Stack Developer | React.js | Node.js | MongoDB</h3>
 
-<p align="center">
-  💼 Actively seeking internships & fresher roles  
-</p>
+
 
 ---
 
