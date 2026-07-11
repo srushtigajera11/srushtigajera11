@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Srushti Gajera</h1>
-<h3 align="center">🚀 MERN Stack Developer | React.js | Node.js | MongoDB</h3>
+<h3 align="center">🚀 MERN Stack Developer | React.js | Node.js | MongoDB | Next.js</h3>
 
 
 
