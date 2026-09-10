@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 * 💻 MERN Stack Developer with hands-on project experience
-* 🌱 Currently mastering **Advanced React & Backend Systems**
+* 🌱 Currently mastering **Advanced NEXT.js & Backend Systems**
 * 🔥 Focused on building **scalable, real-world applications**
 * ⚡ I turn ideas into fully functional products
 
